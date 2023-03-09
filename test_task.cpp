@@ -117,7 +117,6 @@ int main() {
 	std::vector<std::string> input_binary_strings;
 	std::string line_from_file;
 	std::string prev_line;
-	printf("kek-1\n");
 	// reading strings from file
 	if (input_file.is_open()) {
 		while (!input_file.eof()) {
